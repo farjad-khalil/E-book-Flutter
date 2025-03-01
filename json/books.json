@@ -1,0 +1,36 @@
+[
+  {
+    "rating": "4.7",
+    "title":"Aesop's Fables",
+    "text":"Aesop",
+    "img": "img/pic-1.png",
+    "audio": "aesop"
+  },
+  {
+    "rating": "4.0",
+    "title":"Chef’s House",
+    "text":"David Means",
+    "img": "img/pic-2.png",
+    "audio": "chefs_house"
+  },
+  {
+    "rating": "4.4",
+    "title":"The Reunion",
+    "text":"Richard Ford",
+    "img": "img/pic-4.png",
+    "audio": "the_reunion"
+  },
+  {
+    "rating": "3.9",
+    "title":"The Beauties",
+    "text":"Philip Pullman",
+    "img": "img/pic-3.png",
+    "audio": "the_beauty"  },
+  {
+    "rating": "4.5",
+    "title":"Germany",
+    "text":"Berlin",
+    "img": "img/pic-5.png",
+    "audio": "ukulele"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742437085211",
+    "project_id": "projectebook-e07e4",
+    "storage_bucket": "projectebook-e07e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742437085211:android:f22aa7a3962da7c2e698be",
+        "android_client_info": {
+          "package_name": "com.example.project_ebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK3klj5BB_jtKQ0bOCPWY-YLlWCSV31vA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
